@@ -5,7 +5,7 @@
     padding:10px;
     margin:0px;
     width:100%;
-    background-color:darkblue;
+    background-color:lightblue;
     text-align:center; 
     z-index:10;
 
@@ -16,10 +16,10 @@
    }
 
 #container {
-    margin-top:20%;
+    margin-top:5%;
     margin-left:10%;
     margin-right:10%;
-    margin-bottom:5%;
+    margin-bottom:20%;
    }
 
 .row{
@@ -45,8 +45,9 @@
    }
 
 img {
-    margin-left: 5px;
-    margin-top:10px;
+    margin-left: auto;
+    margin-top:auto;
+    width:10%
     }
 
 #footer {
@@ -54,7 +55,7 @@ img {
     bottom:0px;
     left:0px;
     width:100%;
-    background-color:lightblue;
+    background-color:blue;
     border:solid 1px;
     padding: 10px;
     margin:10px;
