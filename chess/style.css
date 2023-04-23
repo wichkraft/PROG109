@@ -5,7 +5,7 @@
     padding:10px;
     margin:0px;
     width:100%;
-    background-color:lightyellow;
+    background-color:darkblue;
     text-align:center; 
     z-index:10;
 
@@ -16,10 +16,10 @@
    }
 
 #container {
-    margin-top:20%;
+    margin-top:15%;
     margin-left:10%;
     margin-right:10%;
-    margin-bottom:5%;
+    margin-bottom:10%;
    }
 
 .row{
@@ -50,8 +50,8 @@ img {
     }
 
 #footer {
-    vertical-align: bottom;
-    background-color:lightyellow;
+    position: relative;
+    background-color:lightblue;
     border:solid 1px;
     padding: 10px;
     margin:10px;
