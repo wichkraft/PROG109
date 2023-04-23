@@ -50,6 +50,7 @@ img {
     }
 
 #footer {
+    vertical-align: middle;
     background-color:lightyellow;
     border:solid 1px;
     padding: 10px;
