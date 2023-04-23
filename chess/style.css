@@ -16,10 +16,10 @@
    }
 
 #container {
-    margin-top:15%;
+    margin-top:20%;
     margin-left:10%;
     margin-right:10%;
-    margin-bottom:10%;
+    margin-bottom:5%;
    }
 
 .row{
@@ -50,7 +50,10 @@ img {
     }
 
 #footer {
-    position: relative;
+    position: fixed;
+    bottom:0px;
+    left:0px;
+    width:100%;
     background-color:lightblue;
     border:solid 1px;
     padding: 10px;
