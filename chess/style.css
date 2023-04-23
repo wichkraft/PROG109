@@ -44,7 +44,13 @@
     float:left;
    }
 
+img {
+    margin-left: 5px;
+    margin-top:10px;
+    }
+
 #footer {
+    background-color:lightyellow;
     border:solid 1px;
     padding: 10px;
     margin:10px;
