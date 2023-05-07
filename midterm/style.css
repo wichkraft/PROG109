@@ -1,65 +1,62 @@
 * {font-family: Arial, Verdana, sans-serif;
-    color: #665544;
-    }
+  color: #665544;
+  }
 
-  body {
-    width: 90%;
-    margin: 0 auto;
-    background-image: url("https://wallpaper.dog/large/10896572.png");  
-    }
+body {
+  width: 90%;
+  margin: 0 auto;
+  background-image: url("https://www.desktopbackground.org/download/1400x1050/2015/08/17/996588_peterpan-wallpapers_1920x1080_h.jpg");  
+  }
 
-  #content {
-    overflow: auto;}
+#content {
+  overflow: auto;}
 
-  #nav {
-    margin: 1%;
-    text-align: center;
-    }
+#nav {
+  margin: 1%;
+  text-align: center;
+  }
 
-  #nav li {
-    display: inline;
-    padding: 0.5em;}
+#nav li {
+  display: inline;
+  padding: 0.5em;}
 
-  #nav {
-    padding: 0.5em 0;
-    background-color:#2e8b57}
+#nav {
+  padding: 0.5em 0;
+  background-color: olivedrab}
 
-  #content {
-    height: 10em;
-    margin-bottom: 1em;
-    padding: 10%
-    }
+#content {
+  height: 10em;
+  margin-bottom: 1em;
+  padding: 10%
+  }
 
-  #content {
-    background-color:#fff5ee;
-    background-size:contain;
-    background-position: right;
-    background-repeat:no-repeat;}
+#content {
+  background-color:#fff5ee;
+  background-size:contain;
+  background-position: right;
+  background-repeat:no-repeat;}
 
-  .column1, .column2{
-    width: 31.3%;
-    float: left;
-    margin: 1%;
-    text-align: center
-    }
+.column1, .column2{
+  padding: 0.5em 0;
+  background-position: center;
+  background-color:#ffefd5;
+  width: 31.3%;
+  float: left;
+  margin: 1%;
+  text-align: center  
+  }
 
-  .column1 {
-    background-color:#ffefd5;}
+#header {
+  margin: 1%;
+  padding: 0.5em 0;
+  text-align: center
+  }
+
+h1, h3 {
+  font-family: 'WaltographRegular';
+  font-weight: normal;
+  font-style: normal;
+ }
 
 
-  .column2 {
-    background-color:#ffefd5;}
 
-  #header {
-    margin: 1%;
-    padding: 0.5em 0;
-    text-align: center
-    }
-
-  h1 {
-    font-family: 'WaltographRegular';
-    font-weight: normal;
-    font-style: normal;
-   }
-  
-  
