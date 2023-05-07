@@ -1,4 +1,4 @@
-var table = 3;             // Unit of table
+var table = prompt("Please enter a number", 3); // Unit of table
 var i = 1;                 // Set counter to 1
 var msg = '';              // Message
 
