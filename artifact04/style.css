@@ -1,3 +1,69 @@
 .errors{
     color:red;
+    }
+    
+#error1 {
+    position: absolute;
+    top: 10px;
+    left: 265px;
+}
+
+#error2 {
+    position: absolute;
+    top: 45;
+    left: 260px;
+}
+
+#error3 {
+    position: absolute;
+    top: 84;
+    left: 233px;
+}
+
+#error11 {
+    position: absolute;
+    top: 122;
+    left: 233px;
+}
+
+#error4 {
+    position: absolute;
+    top: 160;
+    left: 258px;
+}
+
+#error5 {
+    position: absolute;
+    top: 200;
+    left: 255px;
+}
+
+#error6 {
+    position: absolute;
+    top: 303;
+    left: 248px;
+}
+
+#error7 {
+    position: absolute;
+    top: 340;
+    left: 222px;
+}
+
+#error8 {
+    position: absolute;
+    top: 375;
+    left: 170;
+}
+
+#error9 {
+    position: absolute;
+    top: 412;
+    left: 220;
+}
+
+#error10 {
+    position: absolute;
+    top: 450;
+    left: 253;
 }
