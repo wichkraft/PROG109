@@ -12,8 +12,10 @@ body {
 	/* Responsive page rules at bottom of style sheet */
 
 #addItem {
-	text-align: center;
-	}
+	position: absolute;
+  	left: 500px;
+  	padding: 10px;
+}
 
 h1 {
 	background-image: url(../images/kinglogo.png);
