@@ -168,15 +168,21 @@ function validZipCode() {
 
 
 function validateForm() {
-    validFirstName();
-    validLastName();
-    validEMail();
-    validPhone();
-    validUser();
-    validPassword();
-    validAddress();
-    validCountry();
-    validState();
-    validCity();
-    validZipCode();
+    var fn = validFirstName();
+    var ln = validLastName();
+    var em = validEMail();
+    var ph = validPhone();
+    var un = validUser();
+    var pw = validPassword();
+    var ad = validAddress();
+    var c = validCountry();
+    var s = validState();
+    var ct = validCity();
+    var zc = validZipCode();
+
+    if (fn && ln && em && ph && un && pw && ad && c && s && ct && zc) {
+        return true;
+    }
+
+    return false;
 }
