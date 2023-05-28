@@ -11,12 +11,6 @@ body {
 	margin: 0 auto 0 auto;}
 	/* Responsive page rules at bottom of style sheet */
 
-#addItem {
-	position: absolute;
-  	left: 500px;
-  	padding: 10px;
-}
-
 h1 {
 	background-image: url(../images/kinglogo.png);
 	background-repeat: no-repeat;
@@ -148,3 +142,10 @@ p {
         background-size: 72px 72px;
     }
 }
+
+#addItem {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100;
+  }
