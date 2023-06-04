@@ -1,9 +1,4 @@
 #container {
-    position: absolute;
-    top: 20%;
-    text-align: center
-}
-
-#container {
-    left: 25%
+    background-position: center center;
+    text-align: center;
 }
