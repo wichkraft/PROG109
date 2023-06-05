@@ -1,4 +1,13 @@
-#container {
-    background-position: center center;
+#content {
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+  }
+  
+#controls {
+    margin: auto;
+    width: 100%;
+    padding: 10px;
     text-align: center;
 }
