@@ -75,4 +75,4 @@ setInterval(function() {
     }
     pic.setAttribute('src', picture(count));
     cap.innerHTML = caption(count);
-}, 10000);
+}, 5000);
