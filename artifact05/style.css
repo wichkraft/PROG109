@@ -3,7 +3,7 @@
     width: 100%;
     padding: 10px;
     text-align: center;
-  }
+}
   
 #controls {
     margin: auto;
@@ -13,8 +13,9 @@
 }
 
 #validation {
-    margin: auto;
-    width: 100%;
+    left:0px;
+    width:100%;
+    height:50px;
     padding: 10px;
-    text-align: center;
-  }
+    text-align:center;
+}
