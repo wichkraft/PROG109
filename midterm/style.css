@@ -25,7 +25,7 @@ body {
   background-color: olivedrab}
 
 #content {
-  height: 12em;
+  height: 20em;
   margin-bottom: 1em;
   padding: 5%
   }
@@ -69,4 +69,26 @@ img {
 
 #q {
   font-weight: bold;
+}
+
+.errors{
+  font-weight: bold;
+}
+   
+#error1 {
+  position: absolute;
+  top: 224px;
+  left: 300px;
+}
+
+#error2 {
+  position: absolute;
+  top: 245px;
+  left: 300px;
+}
+
+#error3 {
+  position: absolute;
+  top: 305px;
+  left: 255px;
 }
