@@ -67,5 +67,11 @@ img {
   width: 300px;
 }
 
+#q {
+  font-weight: bold;
+}
 
-
+#description {
+  margin-left: 350px;
+  width: 100%;
+}
