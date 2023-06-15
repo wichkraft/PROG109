@@ -157,7 +157,7 @@ function validZipCode() {
     var zipcode = document.getElementById("zipcode").value;
     var country = document.getElementById("country").value;
 
-    if (country === "010" && (zipcode==="null" || zipcode==="" || zipcode.length > 5)) {
+    if ((country === "010" || country==="000") && (zipcode==="null" || zipcode==="" || zipcode.length > 5)) {
         errorMessage = "<p>Zip Code field is required and cannot exceed 5 characters.</p>";
         validzip = false;
     }
