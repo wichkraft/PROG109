@@ -91,3 +91,11 @@ img {
   top: 336px;
   left: 287px;
 }
+
+#d {
+  background-color:olivedrab;
+  background-size:contain;
+  background-position: right;
+  background-repeat:no-repeat;
+  padding:0.5em
+}
